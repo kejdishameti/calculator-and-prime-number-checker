@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calculator-and-prime-number-checker/1.0.0": {
+        "runtime": {
+          "Calculator-and-prime-number-checker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator-and-prime-number-checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

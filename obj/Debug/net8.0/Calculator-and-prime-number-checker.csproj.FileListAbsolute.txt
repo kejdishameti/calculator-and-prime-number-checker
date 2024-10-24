@@ -1,0 +1,15 @@
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\bin\Debug\net8.0\Calculator-and-prime-number-checker.exe
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\bin\Debug\net8.0\Calculator-and-prime-number-checker.deps.json
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\bin\Debug\net8.0\Calculator-and-prime-number-checker.runtimeconfig.json
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\bin\Debug\net8.0\Calculator-and-prime-number-checker.dll
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\bin\Debug\net8.0\Calculator-and-prime-number-checker.pdb
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\obj\Debug\net8.0\Calculator-and-prime-number-checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\obj\Debug\net8.0\Calculator-and-prime-number-checker.AssemblyInfoInputs.cache
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\obj\Debug\net8.0\Calculator-and-prime-number-checker.AssemblyInfo.cs
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\obj\Debug\net8.0\Calculator-and-prime-number-checker.csproj.CoreCompileInputs.cache
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\obj\Debug\net8.0\Calculator-and-prime-number-checker.sourcelink.json
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\obj\Debug\net8.0\Calculator-and-prime-number-checker.dll
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\obj\Debug\net8.0\refint\Calculator-and-prime-number-checker.dll
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\obj\Debug\net8.0\Calculator-and-prime-number-checker.pdb
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\obj\Debug\net8.0\Calculator-and-prime-number-checker.genruntimeconfig.cache
+C:\Users\Kejdi\source\repos\Calculator-and-prime-number-checker\Calculator-and-prime-number-checker\obj\Debug\net8.0\ref\Calculator-and-prime-number-checker.dll
